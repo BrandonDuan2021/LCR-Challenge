@@ -10,6 +10,10 @@ I used react + scss to complete this challenge for the following reasons:
    I tried my best implementing both responsive and adaptive design, and I hope you enjoy my project!
 
 
+![alt text](https://github.com/BrandonDuan2021/LCR-Challenge/blob/main/my-result.png)
+
+My finished project preview
+
 
 # Getting Started with Create React App
 
@@ -30,7 +34,6 @@ You may also see any lint errors in the console.
 
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
