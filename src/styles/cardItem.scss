@@ -1,0 +1,25 @@
+.card{
+    border-radius: 4px;
+    border: 1.5px solid rgb(0, 0, 0);
+    background-color:white;
+    color: black;
+    cursor: pointer;
+    padding: 4%;
+
+    p{
+        margin: 1%;
+    }
+
+    .button-content{
+        display: flex;
+        padding: 5px 0;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    &.selected{
+        color:white;
+        background-color: black;
+    }
+}
+

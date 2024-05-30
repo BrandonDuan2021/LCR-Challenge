@@ -1,0 +1,19 @@
+.input-wrapper{
+    display: flex;
+    flex-direction: column;
+
+    input, select{
+        padding:15px 10px;
+        margin: 10px 0;
+        border: 1.5px solid #ccc;
+        border-radius: 2px;
+        font-size: 14px;
+      }
+    
+    .half{
+      width: 50%;
+    }
+}
+
+
+

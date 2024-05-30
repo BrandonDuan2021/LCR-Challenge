@@ -1,0 +1,27 @@
+.main-container{
+    display: flex;
+    flex-direction: column;
+    max-width: 900px;
+    padding: 0 2%;
+    margin: 2% auto;
+    min-width: 300px;
+
+    .flex-row-container{
+        display: flex;
+        margin-top: 2%;
+
+        @media (max-width: 900px) {
+            display: flex;
+            flex-direction: column-reverse;
+        }
+      }
+
+    button{
+        border-radius: 4px;
+        border: 1.5px solid rgb(0, 0, 0);
+        background-color:white;
+        color: black;
+        cursor: pointer;
+        padding: 4%;
+    }
+  }

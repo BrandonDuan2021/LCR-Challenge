@@ -1,0 +1,29 @@
+.summary-container{
+    margin-top: 3%;
+    margin-left: 3%;
+    flex:2;
+
+    @media (max-width: 900px) {
+        margin:2% 0;
+    }
+
+    .summary-content{
+        background-color: rgb(245, 245, 245);
+        padding:10%;
+        margin-top: 2%;
+        margin-left: 2%;
+
+        @media (max-width: 900px) {
+            margin:2%;
+        }
+    }
+
+    .summary-row{
+        display: flex;
+        justify-content: space-between;
+    }
+
+    h3{
+        margin-top: 0;
+    }
+}
