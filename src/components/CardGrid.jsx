@@ -4,7 +4,7 @@ import CardItem from './CardItem'
 import '../styles/cardGrid.scss';
 
 
-// Mao each card data inside the CardGrid as an CardItem component
+// Map each card data inside the CardGrid as an CardItem component
 export default function CardGrid() {
     return (
         <div className='card-grid'>
